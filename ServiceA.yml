@@ -1,1 +1,1 @@
-greeting: Greetings from Service A, got my config locally from ConfigServer
+greeting: Greetings from Service A, got my config remotely from GitHub
